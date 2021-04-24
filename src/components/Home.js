@@ -9,6 +9,10 @@ export default () => {
       <Link className="Link" to="/placeholder">
         <h2>Placeholder</h2>
       </Link>
+      <br/>
+      <Link className="Link" to="/batman">
+        <h2>Batman</h2>
+      </Link>
     </div>
   );
 };
