@@ -113,6 +113,12 @@ export default function Nav(side) {
               Placeholder Tests{' '}
             </Link>
           </li>
+          <li>
+            <Link className="Link" to="/batman">
+              {' '}
+              Batman{' '}
+            </Link>
+          </li>
         </ul>
       </Drawer>
     </div>
